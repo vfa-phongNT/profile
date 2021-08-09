@@ -4,7 +4,7 @@
 4) Group: COE
 5) Chatwork ID: 6151141
 6) Company Mail: phongnt@vitalify.asia
-7) Github AccountID:  
+7) Github AccountID: vfa-phongNT
 8) Github registered address: phongnt@vitalify.asia
 9) Authority: Staff
 10) Role: DEV
